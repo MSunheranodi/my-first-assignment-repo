@@ -7,9 +7,10 @@
     background-image: url(images/Hero-bg.png);
     background-size: 100%;
 }
-.myDiv{
+.button{
     text-align:center;
     display: block;
     margin:0;
-    padding:0:
+    padding:0;
+    color:black;
 }
