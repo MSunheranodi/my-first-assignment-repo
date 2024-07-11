@@ -1,11 +1,13 @@
-.image{
+.image1{
     float: right;
-    width: 30%;
+    width: 10%;
 }
-.position-center{
-    position: absolute;
-    width: 70%;
-    left:25%;
-    background-color: aliceblue;
 
+.images{
+    float:left;
+    width: :10%;
+}
+.picture{
+    float:right;
+    width:10%;
 }
